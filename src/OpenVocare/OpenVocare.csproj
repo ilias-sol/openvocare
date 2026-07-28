@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows10.0.26100.0</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <AssemblyName>OpenVocare</AssemblyName>
+    <RootNamespace>OpenVocare</RootNamespace>
+    <Product>OpenVocare</Product>
+    <Title>OpenVocare</Title>
+    <Description>System-wide voice dictation through your existing ChatGPT desktop sign-in</Description>
+    <Company>OpenVocare</Company>
+    <Authors>OpenVocare</Authors>
+    <Copyright>Copyright (c) 2026 OpenVocare</Copyright>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>Assets\OpenVocare.ico</ApplicationIcon>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <IncludeAllContentForSelfExtract>true</IncludeAllContentForSelfExtract>
+  </PropertyGroup>
+  <ItemGroup>
+    <Resource Include="Assets\OpenVocare.png" />
+  </ItemGroup>
+</Project>

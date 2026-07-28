@@ -1,0 +1,56 @@
+# Build output and local tooling
+[Bb]in/
+[Oo]bj/
+artifacts/
+release/
+.tools/
+.nuget/
+
+# Local benchmark harnesses retained for reproducibility
+/tools/
+
+# IDE and editor state
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.db
+
+# Local AI-assistant context
+.agents/
+.codex/
+.claude/
+AGENTS.md
+CLAUDE.md
+
+# Logs and local application data
+*.log
+logs/
+settings.json
+history.json
+
+# Audio and test recordings
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.aac
+*.ogg
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+auth.json
+credentials*.json
+secrets*.json
+*.pfx
+*.p12
+*.pem
+*.key
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
