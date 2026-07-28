@@ -18,7 +18,7 @@ account is required.
 > Codex/ChatGPT endpoints that may change without notice.
 
 <p align="center">
-  <img src="docs/assets/openvocare-demo.gif" width="1100" alt="OpenVocare transcribing speech into a Windows text editor">
+  <img src="docs/assets/openvocare-settings.png" width="1100" alt="OpenVocare settings showing microphone and shortcut configuration">
 </p>
 
 ## Why OpenVocare
@@ -52,10 +52,10 @@ account is required.
 - Start with Windows
 - Single self-contained Windows executable
 
-## Interface
+## Demo
 
 <p align="center">
-  <img src="docs/assets/openvocare-settings.png" width="1100" alt="OpenVocare settings showing microphone and shortcut configuration">
+  <img src="docs/assets/openvocare-demo.gif" width="1100" alt="OpenVocare transcribing speech into a Windows text editor">
 </p>
 
 ## Quick start
