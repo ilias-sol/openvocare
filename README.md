@@ -17,6 +17,10 @@ account is required.
 > affiliated with, endorsed by, or supported by OpenAI. It uses undocumented
 > Codex/ChatGPT endpoints that may change without notice.
 
+<p align="center">
+  <img src="docs/assets/openvocare-settings.png" width="1100" alt="OpenVocare settings showing microphone and shortcut configuration">
+</p>
+
 ## Why OpenVocare
 
 - **Use your existing ChatGPT access** — no separate API billing or key.
